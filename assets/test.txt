@@ -1,0 +1,11 @@
+[!settings fontSize=38 color=#ff0099 lineHeight=42 width=350 resDir=ss/ss ]
+老师要安排座位，[!color #aaffee](一个桌子配一把椅子，)现在有[!blob](一些桌子)和椅[!input id=2](____)子如下图，[!size 15](它)    =    们[!italic](正好)能一一匹配。\(   \)
+[!icon ](hh)滚滚滚[!input id=1 focus=focus](____)
+[!img type=surround startLine=3 align=right w=100 h=200](text)
+[!img type=block w=100 h=200 align=right](text)
+
+你好[!img type=surround startLine=0 align=right h=100 hSpace=10 ](w1d2_pic_03)[!img type=surround startLine=3 align=left h=100 ](w1d2_pic_02)[!img type=surround startLine=2 align=center h=100 ](w1d2_pic_01)
+你说巧不巧这是一个测试程序哈哈哈，这个真的太好了你来试试果然是的haha有意思，哈哈哈哈哈哈，果然不错[!input id=input1](____)，你来看看让我再添加几个字试试让我加几个图标看看[!icon align=center h=30 hSpace=6](pic_01)，让我加一个居于中间的图片试试看上去不错，让我再加一个图标
+
+你好[!img type=surround startLine=0 align=right h=100 hSpace=10 ](w1d2_pic_03)[!img type=surround startLine=3 align=left h=100 ](w1d2_pic_02)[!img type=surround startLine=2 align=center h=140 ](w1d2_pic_01)
+[!color #77ff55](你)说[!color #99ff77 ](巧不巧)这是一个|测试程序哈哈哈，这个真的太好了[!input id=input2](_________)太好了你来试试果然是的haha有意思，哈哈哈哈哈哈，果然不错[!input id=input1 focus=focus](________)，你来看看让我再添加几个字试试让我加几个图标看看[!icon align=center h=30 hSpace=6](pic_01)，让我加一个居于中间的图片试试看上去不错，让我再加一个图标[!color #998dd1](哈哈[!color #67f89d](哈哈)哈说)[!size 40](哈哈)哈哈哈[!color #978霏6](哈哈[!size 20](哈)哈哈说)
